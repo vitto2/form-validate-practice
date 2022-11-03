@@ -3,14 +3,14 @@
 A new Flutter project.
 
 ## Getting Started
+![image](https://user-images.githubusercontent.com/47305804/199628265-ad5ffa7d-d41c-4518-8d2d-fe4718b68680.png)
+A função submit utiliza a key do formulário para fazer a validação do campo ao pressionar o botão de submit que só fica clicavel ao preencher os campos 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://user-images.githubusercontent.com/47305804/199628352-27c8f4b1-5092-4605-a7fc-b6b08f6f66a3.png)
+As seguintes funções são usadas para validar os campos
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://user-images.githubusercontent.com/47305804/199628481-73ed0842-651a-450a-b769-f40b1bf5abc2.png)
+Validações funcionando. A partir de agora seguirei desenvolvendo outros projetos com validações mais complexas
